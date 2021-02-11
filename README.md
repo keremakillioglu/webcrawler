@@ -1,6 +1,10 @@
 # Webcrawler
 A recursirve web-crawler built with Golang
 
+## Usage
+go run main.go
+Enter URL to Crawl: http://keremakillioglu.github.io
+
 ## Web-Crawler Implementation
 
 ### Dependencies
