@@ -6,7 +6,6 @@ go run main.go
 Enter URL to Crawl: http://keremakillioglu.github.io 
 
 ## Web-Crawler Implementation
-
 ### Dependencies
 * **Colly:** Web scraping
 * **Goquery:** HTML operations
